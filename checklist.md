@@ -37,6 +37,7 @@
 	- [ ] [Atom](https://atom.io) my favorite text editor
 	- [ ] [Docker](https://www.docker.com/)
 	- [ ] [GitHub Desktop](https://desktop.github.com/)
+  - [ ] [GPG Suite](https://gpgtools.org)
 	- [ ] [ImageOptim](https://imageoptim.com/) for optimizing images
 	- [ ] [iTerm2](https://www.iterm2.com/) terminal alternative
 	- [ ] [Kap](https://getkap.co/) for recording gifs
@@ -61,8 +62,9 @@
 - [ ] Install [Homebrew](https://brew.sh/)
  - [ ] Install [Git](https://git-scm.com/download/mac)
  - [ ] Install [GitHub CLI](https://cli.github.com)
+ - [ ] Install [GNUPG](https://www.gnupg.org/download/index.html)
  - [ ] Install [Pre-Commit](https://pre-commit.com/#install)
- - [ ] Update [Python](https://docs.python-guide.org/starting/install3/osx/)
+ - [ ] Install [Python](https://docs.python-guide.org/starting/install3/osx/)
 
 - [ ] Install [oh my zsh](http://ohmyz.sh/) | [Further setup](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961)
   - [ ] Copy `.zshrc` to `~/`
@@ -74,6 +76,7 @@
 
 ## GitHub
 - [ ] [Generate new SSH key](https://help.github.com/articles/generating-an-ssh-key/)
+- [ ] [Generate new GPG key](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/generating-a-new-gpg-key)
 - [ ] [Generate an access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) for Terminal to auth your GitHub account when 2FA is enabled.
 
 ## Backup
