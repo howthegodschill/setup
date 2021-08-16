@@ -13,7 +13,7 @@ This are my public dotfiles. These are config files to set up a system the way I
 - Terminal Setup (iTerm + Oh My Zsh)
   - [iTerm2](https://iterm2.com)
   - [Oh My Zsh](https://ohmyz.sh)
-  - [.zshrc](/Oh\ My\ Zsh/.zshrc)
+  - [zshrc](https://github.com/howthegodschill/setup/blob/main/dotfiles/Oh%20My%20Zsh/.zshrc)
   - [iTerm2 theme](/iTerm2/clovis.itermcolors)
 - Git & Github
   - [.gitconfig](/Git/.gitconfig)
