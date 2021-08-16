@@ -1,42 +1,51 @@
-# The Setup
+# My Mac Setup
 
-Documenting my system setup for posterity.
+Documenting my system for reinstalls in case of crash or replacement
 
-![Desktop Screenshot](assets/desktop.jpg)
+![Jotaro](https://media.giphy.com/media/O3fbWenrGmTsc/giphy.gif)
 
-How to use: Open an issue each time I need to setup a new machine, paste [the checklist](checklist.md) from this readme, and follow the steps.
+How to use: Open an issue each time I need to setup a new machine, paste [the checklist](CHECKLIST.md) from this readme, and follow the steps.
 
 ## Contents
 
 ```bash
 setup/
 │  ├─ assets/
-│  ├─ fonts/
-│  ├─ icons/
-│  │  └─ folders--gradient/
+│  │  ├─ theme-atom.png
+│  │  ├─ theme-clovis.png
+│  │  └─ theme-iterm.png
 │  │
-│  ├─ themes/
-│  │  ├─ Custom.itermcolors
-│  │  └─ Monokai.alfredappearance
-│  │
-│  └─ wallpapers/
-│     └─ …
+│  └─ dotfiles/
+│     ├─ Atom/
+│     ├─ Git/
+│     ├─ iTerm2/
+│     ├─ Oh My Zsh/
+│     ├─ Screenshots/
+│     ├─ dotfiles-logo.png
+│     └─ README.md
 │
-├─ checklist.md
-├─ LICENSE
+├─ CHECKLIST.md
 └─ README.md
 ```
 
+## Contents
+
+| File | Description |
+| --- | --- |
+| `CHECKLIST.md` | The template list of stuff to do. Open a new issue, and get going! :sparkles: |
+| `.gitconfig` | Global Git configuration to specify my name, email, colors, etc. |
+| `.gitignore_global` | My global Git ignore file |
+| `.zshrc` | Config file for ZSH with aliases, theme, and some other stuff |
+
 ## Themes
 
-### iTerm 2:
+### iTerm2 theme:
 
-![Mmmm Cupcake!](assets/theme-iterm.jpg)
+![Clovis](assets/theme-clovis.png)
 
-### Alfred:
+### Atom theme:
 
-![Ooooh!](assets/theme-alfred.jpg)
+![Monokai](assets/theme-atom.png)
 
 ## Thanks
-- Inspiration from Joel's [setup repo](https://github.com/jglovier/my-setup)
-- Gradient folders by [Una](https://github.com/una/gradient-folders)
+- Inspiration from [Mina's](https://github.com/minamarkham/setup) and [Joel's](https://github.com/jglovier/my-setup) setup repos

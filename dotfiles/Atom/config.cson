@@ -1,0 +1,30 @@
+"*":
+  core:
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS-Store"
+      "._*"
+      "Thumbs.db"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "monokai"
+      "one-dark-ui"
+    ]
+  editor:
+    confirmCheckoutHeadRevision: false
+    fontFamily: "Menlo"
+    fontSize: 12
+    invisibles: {}
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "2de71227-a6a3-40a2-a90b-4b0237047acc"
+  "highlight-line":
+    hideHighlightOnSelect: true
+    underline: "dashed"
+  autosave:
+    enabled: true
+  welcome:
+    showOnStartup: false
