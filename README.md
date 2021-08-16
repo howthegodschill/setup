@@ -4,7 +4,7 @@ Documenting my system for reinstalls in case of crash or replacement
 
 ![Jotaro](https://media.giphy.com/media/O3fbWenrGmTsc/giphy.gif)
 
-How to use: Open an issue each time I need to setup a new machine, paste [the checklist](CHECKLIST.md) from this readme, and follow the steps.
+How to use: Open an issue each time I need to setup a new machine, paste [the checklist](https://github.com/howthegodschill/setup/blob/main/checklist.md) from this readme, and follow the steps.
 
 ## Contents
 
